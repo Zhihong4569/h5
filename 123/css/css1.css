@@ -1,7 +1,7 @@
-
 *{
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
+
 }
 
 
@@ -24,16 +24,47 @@ header{
 
 
 #f1{
-    background-image: url("../image/9.png");
+    height: 940px;
+    background-image: url("../image/t7.jpg");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
     text-align: center;
 }
-.p{
+.p1{
+    padding-top: 146px;
+
+}
+.p2{
+    padding-top: 30px;
     font-size: 28px;
     color: #43698f;
-    padding: 26px 0 90px;
+    padding-bottom: 90px;
 }
+.p3{
+    font-size: 0;
 
+}
+.p3>button{
+    height: 60px;
+    width: 280px;
+    font-size: 22px;
+    background-color:white;
+    color:#24a9f1;
+    border-radius: 10px;
+    border: none;
 
+}
+.p3 i{
+    font-size: 32px;
+}
+#p4{
+    margin-right: 24px;
+}
+.p5{
+    padding-top: 50px;
+    color: white;
+padding-bottom: 28px;
+    font-size: 18px;
+letter-spacing: 5px;
+}
